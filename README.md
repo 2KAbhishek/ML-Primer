@@ -1,2 +1,3 @@
-# ML-Primer
-Basic Machine Learning &amp; Data Science in Python
+# ML Primer
+
+This repo contains things created during a course on Machine Learning using Python.
