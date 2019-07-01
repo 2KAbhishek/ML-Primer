@@ -1,0 +1,34 @@
+,Department ID,Department Name
+0,D001,Accident and emergency
+1,D002,Anaesthetics
+2,D003,Breast screening
+3,D004,Cardiology
+4,D005,Chaplaincy
+5,D006,Critical care
+6,D007,Diagnostic imaging
+7,D008,Discharge lounge
+8,D009,Ear nose and throat (ENT)
+9,D010,Elderly services department
+10,D011,Gastroenterology
+11,D012,General surgery
+12,D013,Gynaecology
+13,D014,Haematology
+14,D015,Maternity
+15,D016,Microbiology
+16,D017,Neonatal unit
+17,D018,Nephrology
+18,D019,Neurology
+19,D020,Nutrition and dietetics
+20,D021,Obstetrics
+21,D022,Occupational therapy
+22,D023,Oncology
+23,D024,Ophthalmology
+24,D025,Orthopaedics
+25,D026,Pain management
+26,D027,Pharmacy
+27,D028,Physiotherapy
+28,D029,Radiotherapy
+29,D030,Renal unit
+30,D031,Rheumatology
+31,D032,Sexual health
+32,D033,Urology

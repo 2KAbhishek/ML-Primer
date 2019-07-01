@@ -1,0 +1,7 @@
+Day,Topics Covered
+1,Python Functions;Date & Calendar;Introduction to NumPy(np.arange;np.zeros etc)
+2,Introduction to matplotlib.pyplot;NumPy explorations(np.logspace;np.linspace etc)
+3,Introduction to Pandas Series;Histograms;
+4,Introduction to OOP;Dictionaries;Pandas DataFrames;Working with CSV data
+5,Hospital Dataset Creation(Departments;Doctors;Patients)
+6,Introduction to SciPy;Seaborn; Linear Regression using Scikit Learn
