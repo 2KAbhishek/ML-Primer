@@ -7,3 +7,4 @@ Day,Topics Covered
 6,Introduction to SciPy;Seaborn; Linear Regression using Scikit Learn
 7,Exploring DataFrames(display class; quick df creation; merge;join;concat)
 8,Exploring matplotlib(path;patches etc)
+9,Introduction to tuples in python
