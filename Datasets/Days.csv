@@ -8,3 +8,4 @@ Day,Topics Covered
 7,Exploring DataFrames(display class; quick df creation; merge;join;concat)
 8,Exploring matplotlib(path;patches etc)
 9,Introduction to tuples in python
+10,Group and aggregate methods
