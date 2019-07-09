@@ -5,3 +5,4 @@ Day,Topics Covered
 4,Introduction to OOP;Dictionaries;Pandas DataFrames;Working with CSV data
 5,Hospital Dataset Creation(Departments;Doctors;Patients)
 6,Introduction to SciPy;Seaborn; Linear Regression using Scikit Learn
+7,Exploring DataFrames(display class; quick df creation; merge;join;concat)
