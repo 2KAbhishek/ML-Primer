@@ -1,5 +1,3 @@
-<div align="center">
-
 # ML-Primer
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/ML-Primer?style=plastic&color=0f0&label=Size)
@@ -12,7 +10,5 @@
 
 This repo contains things created during a course on Machine Learning using Python.
 
-</div>
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
