@@ -9,6 +9,3 @@
 ![License](https://img.shields.io/github/license/2kabhishek/ML-Primer?style=plastic&color=555&label=License)
 
 This repo contains things created during a course on Machine Learning using Python.
-
-
-
