@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/ML-Primer">BareMinimum</a></h1>
+<h1><a href="https://2kabhishek.github.io/ML-Primer">ML-Primer</a></h1>
 
 <a href="https://github.com/2KAbhishek/ML-Primer/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/ML-Primer?style=flat&color=eee&label="> </a>
